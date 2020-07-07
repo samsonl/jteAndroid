@@ -1,1 +1,4 @@
-//
+
+libraries {
+  libcommon
+}
