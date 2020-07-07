@@ -12,5 +12,7 @@ libraries {
    merge = true 
   override=true
   
-  libcommon
+  libcommon {
+    B="libcommon pipeline_config B"
+  }
 }
