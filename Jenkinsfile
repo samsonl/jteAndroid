@@ -1,1 +1,1 @@
-uploadFiles("And1","And2")
+uploadfiles("And1","And2")
